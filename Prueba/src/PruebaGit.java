@@ -6,9 +6,8 @@ public class PruebaGit {
 		  
 		  do {
 			  System.out.println("el numero es: "+num);
+			  num++;
 		  }while(num<10);
-		  
-		  
 	  }
 
 }
